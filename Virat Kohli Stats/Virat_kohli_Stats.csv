@@ -1,0 +1,618 @@
+Match_No,Runs,Opponent,Ground,Date,Match_Type
+1,12,SriLanka,Dambulla,18-Aug-08,ODI
+2,37,SriLanka,Dambulla,20-Aug-08,ODI
+3,25,SriLanka,Colombo(RPS),24-Aug-08,ODI
+4,54,SriLanka,Colombo(RPS),27-Aug-08,ODI
+5,31,SriLanka,Colombo(RPS),29-Aug-08,ODI
+6,2,SriLanka,Colombo(RPS),14-Sep-09,ODI
+7,16,Pakistan,Centurion,26-Sep-09,ODI
+8,79,WestIndies,Johannesburg,30-Sep-09,ODI
+9,30,Australia,Vadodara,25-Oct-09,ODI
+10,10,Australia,Mohali,02-Nov-09,ODI
+11,27,SriLanka,Rajkot,15-Dec-09,ODI
+12,54,SriLanka,Nagpur,18-Dec-09,ODI
+13,107,SriLanka,Kolkata,24-Dec-09,ODI
+14,9,SriLanka,Mirpur,05-Jan-10,ODI
+15,91,Bangladesh,Mirpur,07-Jan-10,ODI
+16,71,SriLanka,Mirpur,10-Jan-10,ODI
+17,102,Bangladesh,Mirpur,11-Jan-10,ODI
+18,2,SriLanka,Mirpur,13-Jan-10,ODI
+19,31,South Africa,Jaipur,21-Feb-10,ODI
+20,57,South Africa,Ahmedabad,27-Feb-10,ODI
+21,0,Zimbabwe,Bulawayo,28-May-10,ODI
+22,82,SriLanka,Bulawayo,30-May-10,ODI
+23,18,Zimbabwe,Harare,03-Jun-10,ODI
+24,68,SriLanka,Harare,05-Jun-10,ODI
+25,26,Zimbabwe,Harare,12-Jun-10,T20
+26,11,Bangladesh,Dambulla,16-Jun-10,ODI
+27,18,Pakistan,Dambulla,19-Jun-10,ODI
+28,10,SriLanka,Dambulla,22-Jun-10,ODI
+29,28,SriLanka,Dambulla,24-Jun-10,ODI
+30,0,SriLanka,Dambulla,16-Aug-10,ODI
+31,8,New Zealand,Dambulla,25-Aug-10,ODI
+32,37,SriLanka,Dambulla,28-Aug-10,ODI
+33,118,Australia,Visakhapatnam,20-Oct-10,ODI
+34,105,New Zealand,Guwahati,28-Nov-10,ODI
+35,64,New Zealand,Jaipur,01-Dec-10,ODI
+36,63,New Zealand,Vadodara,04-Dec-10,ODI
+37,0,New Zealand,Bengaluru,07-Dec-10,ODI
+38,2,New Zealand,Chennai,10-Dec-10,ODI
+39,28,South Africa,Durban,09-Jan-11,T20
+40,54,South Africa,Durban,12-Jan-11,ODI
+41,22,South Africa,Johannesburg,15-Jan-11,ODI
+42,28,South Africa,CapeTown,18-Jan-11,ODI
+43,87,South Africa,Gqeberha,21-Jan-11,ODI
+44,2,South Africa,Centurion,23-Jan-11,ODI
+45,100,Bangladesh,Mirpur,19-Feb-11,ODI
+46,8,England,Bengaluru,27-Feb-11,ODI
+47,34,Ireland,Bengaluru,06-Mar-11,ODI
+48,12,Netherlands,Delhi,09-Mar-11,ODI
+49,1,South Africa,Nagpur,12-Mar-11,ODI
+50,59,WestIndies,Chennai,20-Mar-11,ODI
+51,24,Australia,Ahmedabad,24-Mar-11,ODI
+52,9,Pakistan,Mohali,30-Mar-11,ODI
+53,35,SriLanka,Wankhede,02-Apr-11,ODI
+54,14,WestIndies,Port of Spain,04-Jun-11,T20
+55,2,WestIndies,Port of Spain,06-Jun-11,ODI
+56,81,WestIndies,Port of Spain,08-Jun-11,ODI
+57,0,WestIndies,NorthSound,11-Jun-11,ODI
+58,22,WestIndies,NorthSound,13-Jun-11,ODI
+59,94,WestIndies,Kingston,16-Jun-11,ODI
+60,4,WestIndies,Kingston,20-Jun-11,Test
+61,15,WestIndies,Kingston,20-Jun-11,Test
+62,0,WestIndies,Bridgetown,28-Jun-11,Test
+63,27,WestIndies,Bridgetown,28-Jun-11,Test
+64,30,WestIndies,Roseau,06-Jul-11,Test
+65,4,England,Manchester,31-Aug-11,T20
+66,55,England,Chester-le-Street,03-Sep-11,ODI
+67,9,England,Southampton,06-Sep-11,ODI
+68,7,England,The Oval,09-Sep-11,ODI
+69,16,England,Lord's,11-Sep-11,ODI
+70,107,England,Cardiff,16-Sep-11,ODI
+71,37,England,Hyderabad,14-Oct-11,ODI
+72,112,England,Delhi,17-Oct-11,ODI
+73,35,England,Mohali,20-Oct-11,ODI
+74,86,England,Wankhede,23-Oct-11,ODI
+75,0,England,Kolkata,25-Oct-11,ODI
+76,15,England,Kolkata,29-Oct-11,T20
+77,52,WestIndies,Wankhede,22-Nov-11,Test
+78,63,WestIndies,Wankhede,22-Nov-11,Test
+79,3,WestIndies,Cuttack,29-Nov-11,ODI
+80,117,WestIndies,Visakhapatnam,02-Dec-11,ODI
+81,20,WestIndies,Ahmedabad,05-Dec-11,ODI
+82,23,WestIndies,Indore,08-Dec-11,ODI
+83,80,WestIndies,Chennai,11-Dec-11,ODI
+84,11,Australia,Melbourne,26-Dec-11,Test
+85,0,Australia,Melbourne,26-Dec-11,Test
+86,23,Australia,Sydney,03-Jan-12,Test
+87,9,Australia,Sydney,03-Jan-12,Test
+88,44,Australia,Perth,13-Jan-12,Test
+89,75,Australia,Perth,13-Jan-12,Test
+90,116,Australia,Adelaide,24-Jan-12,Test
+91,22,Australia,Adelaide,24-Jan-12,Test
+92,22,Australia,Sydney,01-Feb-12,T20
+93,31,Australia,Melbourne,03-Feb-12,T20
+94,31,Australia,Melbourne,05-Feb-12,ODI
+95,77,SriLanka,Perth,08-Feb-12,ODI
+96,18,Australia,Adelaide,12-Feb-12,ODI
+97,15,SriLanka,Adelaide,14-Feb-12,ODI
+98,12,Australia,Brisbane,19-Feb-12,ODI
+99,66,SriLanka,Brisbane,21-Feb-12,ODI
+100,21,Australia,Sydney,26-Feb-12,ODI
+101,133,SriLanka,Hobart,28-Feb-12,ODI
+102,108,SriLanka,Mirpur,13-Mar-12,ODI
+103,66,Bangladesh,Mirpur,16-Mar-12,ODI
+104,183,Pakistan,Mirpur,18-Mar-12,ODI
+105,106,SriLanka,Hambantota,21-Jul-12,ODI
+106,1,SriLanka,Hambantota,24-Jul-12,ODI
+107,38,SriLanka,Colombo(RPS),28-Jul-12,ODI
+108,128,SriLanka,Colombo(RPS),31-Jul-12,ODI
+109,23,SriLanka,Pallekele,04-Aug-12,ODI
+110,68,SriLanka,Pallekele,07-Aug-12,T20
+111,58,New Zealand,Hyderabad,23-Aug-12,Test
+112,103,New Zealand,Bengaluru,31-Aug-12,Test
+113,51,New Zealand,Bengaluru,31-Aug-12,Test
+114,70,New Zealand,Chennai,11-Sep-12,T20
+115,50,Afghanistan,Colombo(RPS),19-Sep-12,T20
+116,40,England,Colombo(RPS),23-Sep-12,T20
+117,15,Australia,Colombo(RPS),28-Sep-12,T20
+118,78,Pakistan,Colombo(RPS),30-Sep-12,T20
+119,2,South Africa,Colombo(RPS),02-Oct-12,T20
+120,19,England,Ahmedabad,15-Nov-12,Test
+121,14,England,Ahmedabad,15-Nov-12,Test
+122,19,England,Wankhede,23-Nov-12,Test
+123,7,England,Wankhede,23-Nov-12,Test
+124,6,England,Kolkata,05-Dec-12,Test
+125,20,England,Kolkata,05-Dec-12,Test
+126,103,England,Nagpur,13-Dec-12,Test
+127,21,England,Pune,20-Dec-12,T20
+128,38,England,Wankhede,22-Dec-12,T20
+129,9,Pakistan,Bengaluru,25-Dec-12,T20
+130,27,Pakistan,Ahmedabad,28-Dec-12,T20
+131,0,Pakistan,Chennai,30-Dec-12,ODI
+132,6,Pakistan,Kolkata,03-Jan-13,ODI
+133,7,Pakistan,Delhi,06-Jan-13,ODI
+134,15,England,Rajkot,11-Jan-13,ODI
+135,37,England,Kochi,15-Jan-13,ODI
+136,77,England,Ranchi,19-Jan-13,ODI
+137,26,England,Mohali,23-Jan-13,ODI
+138,0,England,Dharamsala,27-Jan-13,ODI
+139,107,Australia,Chennai,22-Feb-13,Test
+140,34,Australia,Hyderabad,02-Mar-13,Test
+141,67,Australia,Mohali,14-Mar-13,Test
+142,34,Australia,Mohali,14-Mar-13,Test
+143,1,Australia,Delhi,22-Mar-13,Test
+144,41,Australia,Delhi,22-Mar-13,Test
+145,31,South Africa,Cardiff,06-Jun-13,ODI
+146,22,WestIndies,The Oval,11-Jun-13,ODI
+147,22,Pakistan,Birmingham,15-Jun-13,ODI
+148,58,SriLanka,Cardiff,20-Jun-13,ODI
+149,43,England,Birmingham,23-Jun-13,ODI
+150,11,WestIndies,Kingston,30-Jun-13,ODI
+151,2,SriLanka,Kingston,02-Jul-13,ODI
+152,102,WestIndies,Port of Spain,05-Jul-13,ODI
+153,31,SriLanka,Port of Spain,09-Jul-13,ODI
+154,2,SriLanka,Port of Spain,11-Jul-13,ODI
+155,115,Zimbabwe,Harare,24-Jul-13,ODI
+156,14,Zimbabwe,Harare,26-Jul-13,ODI
+157,68,Zimbabwe,Harare,28-Jul-13,ODI
+158,29,Australia,Rajkot,10-Oct-13,T20
+159,61,Australia,Pune,13-Oct-13,ODI
+160,100,Australia,Jaipur,16-Oct-13,ODI
+161,68,Australia,Mohali,19-Oct-13,ODI
+162,115,Australia,Nagpur,30-Oct-13,ODI
+163,0,Australia,Bengaluru,02-Nov-13,ODI
+164,3,WestIndies,Kolkata,06-Nov-13,Test
+165,57,WestIndies,Wankhede,14-Nov-13,Test
+166,86,WestIndies,Kochi,21-Nov-13,ODI
+167,99,WestIndies,Visakhapatnam,24-Nov-13,ODI
+168,19,WestIndies,Kanpur,27-Nov-13,ODI
+169,31,South Africa,Johannesburg,05-Dec-13,ODI
+170,0,South Africa,Durban,08-Dec-13,ODI
+171,119,South Africa,Johannesburg,18-Dec-13,Test
+172,96,South Africa,Johannesburg,18-Dec-13,Test
+173,46,South Africa,Durban,26-Dec-13,Test
+174,11,South Africa,Durban,26-Dec-13,Test
+175,123,New Zealand,Napier,19-Jan-14,ODI
+176,78,New Zealand,Hamilton,22-Jan-14,ODI
+177,6,New Zealand,Auckland,25-Jan-14,ODI
+178,2,New Zealand,Hamilton,28-Jan-14,ODI
+179,82,New Zealand,Wellington,31-Jan-14,ODI
+180,4,New Zealand,Auckland,06-Feb-14,Test
+181,67,New Zealand,Auckland,06-Feb-14,Test
+182,38,New Zealand,Wellington,14-Feb-14,Test
+183,105,New Zealand,Wellington,14-Feb-14,Test
+184,136,Bangladesh,Fatullah,26-Feb-14,ODI
+185,48,SriLanka,Fatullah,28-Feb-14,ODI
+186,5,Pakistan,Mirpur,02-Mar-14,ODI
+187,36,Pakistan,Mirpur,21-Mar-14,T20
+188,54,WestIndies,Mirpur,23-Mar-14,T20
+189,57,Bangladesh,Mirpur,28-Mar-14,T20
+190,23,Australia,Mirpur,30-Mar-14,T20
+191,72,South Africa,Mirpur,04-Apr-14,T20
+192,77,SriLanka,Mirpur,06-Apr-14,T20
+193,1,England,Nottingham,09-Jul-14,Test
+194,8,England,Nottingham,09-Jul-14,Test
+195,25,England,Lord's,17-Jul-14,Test
+196,0,England,Lord's,17-Jul-14,Test
+197,39,England,Southampton,27-Jul-14,Test
+198,28,England,Southampton,27-Jul-14,Test
+199,0,England,Manchester,07-Aug-14,Test
+200,7,England,Manchester,07-Aug-14,Test
+201,6,England,The Oval,15-Aug-14,Test
+202,20,England,The Oval,15-Aug-14,Test
+203,0,England,Cardiff,27-Aug-14,ODI
+204,40,England,Nottingham,30-Aug-14,ODI
+205,1,England,Birmingham,02-Sep-14,ODI
+206,13,England,Leeds,05-Sep-14,ODI
+207,66,England,Birmingham,07-Sep-14,T20
+208,2,WestIndies,Kochi,08-Oct-14,ODI
+209,62,WestIndies,Delhi,11-Oct-14,ODI
+210,127,WestIndies,Dharamsala,17-Oct-14,ODI
+211,22,SriLanka,Cuttack,02-Nov-14,ODI
+212,49,SriLanka,Ahmedabad,06-Nov-14,ODI
+213,53,SriLanka,Hyderabad,09-Nov-14,ODI
+214,66,SriLanka,Kolkata,13-Nov-14,ODI
+215,139,SriLanka,Ranchi,16-Nov-14,ODI
+216,115,Australia,Adelaide,09-Dec-14,Test
+217,141,Australia,Adelaide,09-Dec-14,Test
+218,19,Australia,Brisbane,17-Dec-14,Test
+219,1,Australia,Brisbane,17-Dec-14,Test
+220,169,Australia,Melbourne,26-Dec-14,Test
+221,54,Australia,Melbourne,26-Dec-14,Test
+222,147,Australia,Sydney,06-Jan-15,Test
+223,46,Australia,Sydney,06-Jan-15,Test
+224,9,Australia,Melbourne,18-Jan-15,ODI
+225,4,England,Brisbane,20-Jan-15,ODI
+226,3,Australia,Sydney,26-Jan-15,ODI
+227,8,England,Perth,30-Jan-15,ODI
+228,107,Pakistan,Adelaide,15-Feb-15,ODI
+229,46,South Africa,Melbourne,22-Feb-15,ODI
+230,33,U.A.E.,Perth,28-Feb-15,ODI
+231,33,WestIndies,Perth,06-Mar-15,ODI
+232,44,Ireland,Hamilton,10-Mar-15,ODI
+233,38,Zimbabwe,Auckland,14-Mar-15,ODI
+234,3,Bangladesh,Melbourne,19-Mar-15,ODI
+235,1,Australia,Sydney,26-Mar-15,ODI
+236,14,Bangladesh,Fatullah,10-Jun-15,Test
+237,1,Bangladesh,Mirpur,18-Jun-15,ODI
+238,23,Bangladesh,Mirpur,21-Jun-15,ODI
+239,25,Bangladesh,Mirpur,24-Jun-15,ODI
+240,103,SriLanka,Galle,12-Aug-15,Test
+241,3,SriLanka,Galle,12-Aug-15,Test
+242,78,SriLanka,Colombo(PSS),20-Aug-15,Test
+243,10,SriLanka,Colombo(PSS),20-Aug-15,Test
+244,18,SriLanka,Colombo(SSC),28-Aug-15,Test
+245,21,SriLanka,Colombo(SSC),28-Aug-15,Test
+246,43,South Africa,Dharamsala,02-Oct-15,T20
+247,1,South Africa,Cuttack,05-Oct-15,T20
+248,11,South Africa,Kanpur,11-Oct-15,ODI
+249,12,South Africa,Indore,14-Oct-15,ODI
+250,77,South Africa,Rajkot,18-Oct-15,ODI
+251,138,South Africa,Chennai,22-Oct-15,ODI
+252,7,South Africa,Wankhede,25-Oct-15,ODI
+253,1,South Africa,Mohali,05-Nov-15,Test
+254,29,South Africa,Mohali,05-Nov-15,Test
+255,22,South Africa,Nagpur,25-Nov-15,Test
+256,16,South Africa,Nagpur,25-Nov-15,Test
+257,44,South Africa,Delhi,03-Dec-15,Test
+258,88,South Africa,Delhi,03-Dec-15,Test
+259,91,Australia,Perth,12-Jan-16,ODI
+260,59,Australia,Brisbane,15-Jan-16,ODI
+261,117,Australia,Melbourne,17-Jan-16,ODI
+262,106,Australia,Canberra,20-Jan-16,ODI
+263,8,Australia,Sydney,23-Jan-16,ODI
+264,90,Australia,Adelaide,26-Jan-16,T20
+265,59,Australia,Melbourne,29-Jan-16,T20
+266,50,Australia,Sydney,31-Jan-16,T20
+267,7,Bangladesh,Mirpur,24-Feb-16,T20
+268,49,Pakistan,Mirpur,27-Feb-16,T20
+269,56,SriLanka,Mirpur,01-Mar-16,T20
+270,41,Bangladesh,Mirpur,06-Mar-16,T20
+271,23,New Zealand,Nagpur,15-Mar-16,T20
+272,55,Pakistan,Kolkata,19-Mar-16,T20
+273,24,Bangladesh,Bengaluru,23-Mar-16,T20
+274,82,Australia,Mohali,27-Mar-16,T20
+275,89,WestIndies,Wankhede,31-Mar-16,T20
+276,200,WestIndies,NorthSound,21-Jul-16,Test
+277,44,WestIndies,Kingston,30-Jul-16,Test
+278,3,WestIndies,GrosIslet,09-Aug-16,Test
+279,4,WestIndies,GrosIslet,09-Aug-16,Test
+280,16,WestIndies,Lauderhill,27-Aug-16,T20
+281,9,New Zealand,Kanpur,22-Sep-16,Test
+282,18,New Zealand,Kanpur,22-Sep-16,Test
+283,9,New Zealand,Kolkata,30-Sep-16,Test
+284,45,New Zealand,Kolkata,30-Sep-16,Test
+285,211,New Zealand,Indore,08-Oct-16,Test
+286,17,New Zealand,Indore,08-Oct-16,Test
+287,85,New Zealand,Dharamsala,16-Oct-16,ODI
+288,9,New Zealand,Delhi,20-Oct-16,ODI
+289,154,New Zealand,Mohali,23-Oct-16,ODI
+290,45,New Zealand,Ranchi,26-Oct-16,ODI
+291,65,New Zealand,Visakhapatnam,29-Oct-16,ODI
+292,40,England,Rajkot,09-Nov-16,Test
+293,49,England,Rajkot,09-Nov-16,Test
+294,167,England,Visakhapatnam,17-Nov-16,Test
+295,81,England,Visakhapatnam,17-Nov-16,Test
+296,62,England,Mohali,26-Nov-16,Test
+297,6,England,Mohali,26-Nov-16,Test
+298,235,England,Wankhede,08-Dec-16,Test
+299,15,England,Chennai,16-Dec-16,Test
+300,122,England,Pune,15-Jan-17,ODI
+301,8,England,Cuttack,19-Jan-17,ODI
+302,55,England,Kolkata,22-Jan-17,ODI
+303,29,England,Kanpur,26-Jan-17,T20
+304,21,England,Nagpur,29-Jan-17,T20
+305,2,England,Bengaluru,01-Feb-17,T20
+306,204,Bangladesh,Hyderabad,09-Feb-17,Test
+307,38,Bangladesh,Hyderabad,09-Feb-17,Test
+308,0,Australia,Pune,23-Feb-17,Test
+309,13,Australia,Pune,23-Feb-17,Test
+310,12,Australia,Bengaluru,04-Mar-17,Test
+311,15,Australia,Bengaluru,04-Mar-17,Test
+312,6,Australia,Ranchi,16-Mar-17,Test
+313,81,Pakistan,Birmingham,04-Jun-17,ODI
+314,0,SriLanka,The Oval,08-Jun-17,ODI
+315,76,South Africa,The Oval,11-Jun-17,ODI
+316,96,Bangladesh,Birmingham,15-Jun-17,ODI
+317,5,Pakistan,The Oval,18-Jun-17,ODI
+318,32,WestIndies,Port of Spain,23-Jun-17,ODI
+319,87,WestIndies,Port of Spain,25-Jun-17,ODI
+320,11,WestIndies,NorthSound,30-Jun-17,ODI
+321,3,WestIndies,NorthSound,02-Jul-17,ODI
+322,111,WestIndies,Kingston,06-Jul-17,ODI
+323,39,WestIndies,Kingston,09-Jul-17,T20
+324,3,SriLanka,Galle,26-Jul-17,Test
+325,103,SriLanka,Galle,26-Jul-17,Test
+326,13,SriLanka,Colombo(SSC),03-Aug-17,Test
+327,42,SriLanka,Pallekele,12-Aug-17,Test
+328,82,SriLanka,Dambulla,20-Aug-17,ODI
+329,4,SriLanka,Pallekele,24-Aug-17,ODI
+330,3,SriLanka,Pallekele,27-Aug-17,ODI
+331,131,SriLanka,Colombo(RPS),31-Aug-17,ODI
+332,110,SriLanka,Colombo(RPS),03-Sep-17,ODI
+333,82,SriLanka,Colombo(RPS),06-Sep-17,T20
+334,0,Australia,Chennai,17-Sep-17,ODI
+335,92,Australia,Kolkata,21-Sep-17,ODI
+336,28,Australia,Indore,24-Sep-17,ODI
+337,21,Australia,Bengaluru,28-Sep-17,ODI
+338,39,Australia,Nagpur,01-Oct-17,ODI
+339,22,Australia,Ranchi,07-Oct-17,T20
+340,0,Australia,Guwahati,10-Oct-17,T20
+341,121,New Zealand,Wankhede,22-Oct-17,ODI
+342,29,New Zealand,Pune,25-Oct-17,ODI
+343,113,New Zealand,Kanpur,29-Oct-17,ODI
+344,26,New Zealand,Delhi,01-Nov-17,T20
+345,65,New Zealand,Rajkot,04-Nov-17,T20
+346,13,New Zealand,Thiruvananthapuram,07-Nov-17,T20
+347,0,SriLanka,Kolkata,16-Nov-17,Test
+348,104,SriLanka,Kolkata,16-Nov-17,Test
+349,213,SriLanka,Nagpur,24-Nov-17,Test
+350,243,SriLanka,Delhi,02-Dec-17,Test
+351,50,SriLanka,Delhi,02-Dec-17,Test
+352,5,South Africa,CapeTown,05-Jan-18,Test
+353,28,South Africa,CapeTown,05-Jan-18,Test
+354,153,South Africa,Centurion,13-Jan-18,Test
+355,5,South Africa,Centurion,13-Jan-18,Test
+356,54,South Africa,Johannesburg,24-Jan-18,Test
+357,41,South Africa,Johannesburg,24-Jan-18,Test
+358,112,South Africa,Durban,01-Feb-18,ODI
+359,46,South Africa,Centurion,04-Feb-18,ODI
+360,160,South Africa,CapeTown,07-Feb-18,ODI
+361,75,South Africa,Johannesburg,10-Feb-18,ODI
+362,36,South Africa,Gqeberha,13-Feb-18,ODI
+363,129,South Africa,Centurion,16-Feb-18,ODI
+364,26,South Africa,Johannesburg,18-Feb-18,T20
+365,1,South Africa,Centurion,21-Feb-18,T20
+366,0,Ireland,Dublin(Malahide),27-Jun-18,T20
+367,9,Ireland,Dublin(Malahide),29-Jun-18,T20
+368,20,England,Manchester,03-Jul-18,T20
+369,47,England,Cardiff,06-Jul-18,T20
+370,43,England,Bristol,08-Jul-18,T20
+371,75,England,Nottingham,12-Jul-18,ODI
+372,45,England,Lord's,14-Jul-18,ODI
+373,71,England,Leeds,17-Jul-18,ODI
+374,149,England,Birmingham,01-Aug-18,Test
+375,51,England,Birmingham,01-Aug-18,Test
+376,23,England,Lord's,09-Aug-18,Test
+377,17,England,Lord's,09-Aug-18,Test
+378,97,England,Nottingham,18-Aug-18,Test
+379,103,England,Nottingham,18-Aug-18,Test
+380,46,England,Southampton,30-Aug-18,Test
+381,58,England,Southampton,30-Aug-18,Test
+382,49,England,The Oval,07-Sep-18,Test
+383,0,England,The Oval,07-Sep-18,Test
+384,139,WestIndies,Rajkot,04-Oct-18,Test
+385,45,WestIndies,Hyderabad,12-Oct-18,Test
+386,140,WestIndies,Guwahati,21-Oct-18,ODI
+387,157,WestIndies,Visakhapatnam,24-Oct-18,ODI
+388,107,WestIndies,Pune,27-Oct-18,ODI
+389,16,WestIndies,Brabourne,29-Oct-18,ODI
+390,33,WestIndies,Thiruvananthapuram,01-Nov-18,ODI
+391,4,Australia,Brisbane,21-Nov-18,T20
+392,61,Australia,Sydney,25-Nov-18,T20
+393,3,Australia,Adelaide,06-Dec-18,Test
+394,34,Australia,Adelaide,06-Dec-18,Test
+395,123,Australia,Perth,14-Dec-18,Test
+396,17,Australia,Perth,14-Dec-18,Test
+397,82,Australia,Melbourne,26-Dec-18,Test
+398,0,Australia,Melbourne,26-Dec-18,Test
+399,23,Australia,Sydney,03-Jan-19,Test
+400,3,Australia,Sydney,12-Jan-19,ODI
+401,104,Australia,Adelaide,15-Jan-19,ODI
+402,46,Australia,Melbourne,18-Jan-19,ODI
+403,45,New Zealand,Napier,23-Jan-19,ODI
+404,43,New Zealand,MountMaunganui,26-Jan-19,ODI
+405,60,New Zealand,MountMaunganui,28-Jan-19,ODI
+406,24,Australia,Visakhapatnam,24-Feb-19,T20
+407,72,Australia,Bengaluru,27-Feb-19,T20
+408,44,Australia,Hyderabad,02-Mar-19,ODI
+409,116,Australia,Nagpur,05-Mar-19,ODI
+410,123,Australia,Ranchi,08-Mar-19,ODI
+411,7,Australia,Mohali,10-Mar-19,ODI
+412,20,Australia,Delhi,13-Mar-19,ODI
+413,18,South Africa,Southampton,05-Jun-19,ODI
+414,82,Australia,The Oval,09-Jun-19,ODI
+415,77,Pakistan,Manchester,16-Jun-19,ODI
+416,67,Afghanistan,Southampton,22-Jun-19,ODI
+417,72,WestIndies,Manchester,27-Jun-19,ODI
+418,66,England,Birmingham,30-Jun-19,ODI
+419,26,Bangladesh,Birmingham,02-Jul-19,ODI
+420,34,SriLanka,Leeds,06-Jul-19,ODI
+421,1,New Zealand,Manchester,09-Jul-19,ODI
+422,19,WestIndies,Lauderhill,03-Aug-19,T20
+423,28,WestIndies,Lauderhill,04-Aug-19,T20
+424,59,WestIndies,Providence,06-Aug-19,T20
+425,120,WestIndies,Port of Spain,11-Aug-19,ODI
+426,114,WestIndies,Port of Spain,14-Aug-19,ODI
+427,9,WestIndies,NorthSound,22-Aug-19,Test
+428,51,WestIndies,NorthSound,22-Aug-19,Test
+429,76,WestIndies,Kingston,30-Aug-19,Test
+430,0,WestIndies,Kingston,30-Aug-19,Test
+431,72,South Africa,Mohali,18-Sep-19,T20
+432,9,South Africa,Bengaluru,22-Sep-19,T20
+433,20,South Africa,Visakhapatnam,02-Oct-19,Test
+434,31,South Africa,Visakhapatnam,02-Oct-19,Test
+435,254,South Africa,Pune,10-Oct-19,Test
+436,12,South Africa,Ranchi,19-Oct-19,Test
+437,0,Bangladesh,Indore,14-Nov-19,Test
+438,136,Bangladesh,Kolkata,22-Nov-19,Test
+439,94,WestIndies,Hyderabad,06-Dec-19,T20
+440,19,WestIndies,Thiruvananthapuram,08-Dec-19,T20
+441,70,WestIndies,Wankhede,11-Dec-19,T20
+442,4,WestIndies,Chennai,15-Dec-19,ODI
+443,0,WestIndies,Visakhapatnam,18-Dec-19,ODI
+444,85,WestIndies,Cuttack,22-Dec-19,ODI
+445,30,SriLanka,Indore,07-Jan-20,T20
+446,26,SriLanka,Pune,10-Jan-20,T20
+447,16,Australia,Wankhede,14-Jan-20,ODI
+448,78,Australia,Rajkot,17-Jan-20,ODI
+449,89,Australia,Bengaluru,19-Jan-20,ODI
+450,45,New Zealand,Auckland,24-Jan-20,T20
+451,11,New Zealand,Auckland,26-Jan-20,T20
+452,38,New Zealand,Hamilton,29-Jan-20,T20
+453,11,New Zealand,Wellington,31-Jan-20,T20
+454,51,New Zealand,Hamilton,05-Feb-20,ODI
+455,15,New Zealand,Auckland,08-Feb-20,ODI
+456,9,New Zealand,MountMaunganui,11-Feb-20,ODI
+457,2,New Zealand,Wellington,21-Feb-20,Test
+458,19,New Zealand,Wellington,21-Feb-20,Test
+459,3,New Zealand,Christchurch,29-Feb-20,Test
+460,14,New Zealand,Christchurch,29-Feb-20,Test
+461,21,Australia,Sydney,27-Nov-20,ODI
+462,89,Australia,Sydney,29-Nov-20,ODI
+463,63,Australia,Canberra,02-Dec-20,ODI
+464,9,Australia,Canberra,04-Dec-20,T20
+465,40,Australia,Sydney,06-Dec-20,T20
+466,85,Australia,Sydney,08-Dec-20,T20
+467,74,Australia,Adelaide,17-Dec-20,Test
+468,4,Australia,Adelaide,17-Dec-20,Test
+469,11,England,Chennai,05-Feb-21,Test
+470,72,England,Chennai,05-Feb-21,Test
+471,0,England,Chennai,13-Feb-21,Test
+472,62,England,Chennai,13-Feb-21,Test
+473,27,England,Ahmedabad,24-Feb-21,Test
+474,0,England,Ahmedabad,04-Mar-21,Test
+475,0,England,Ahmedabad,12-Mar-21,T20
+476,73,England,Ahmedabad,14-Mar-21,T20
+477,77,England,Ahmedabad,16-Mar-21,T20
+478,1,England,Ahmedabad,18-Mar-21,T20
+479,80,England,Ahmedabad,20-Mar-21,T20
+480,56,England,Pune,23-Mar-21,ODI
+481,66,England,Pune,26-Mar-21,ODI
+482,7,England,Pune,28-Mar-21,ODI
+483,44,New Zealand,Southampton,18-Jun-21,Test
+484,13,New Zealand,Southampton,18-Jun-21,Test
+485,0,England,Nottingham,04-Aug-21,Test
+486,42,England,Lord's,12-Aug-21,Test
+487,20,England,Lord's,12-Aug-21,Test
+488,7,England,Leeds,25-Aug-21,Test
+489,55,England,Leeds,25-Aug-21,Test
+490,50,England,The Oval,02-Sep-21,Test
+491,44,England,The Oval,02-Sep-21,Test
+492,57,Pakistan,Dubai(DSC),24-Oct-21,T20
+493,9,New Zealand,Dubai(DSC),31-Oct-21,T20
+494,2,Scotland,Dubai(DSC),05-Nov-21,T20
+495,0,New Zealand,Wankhede,03-Dec-21,Test
+496,36,New Zealand,Wankhede,03-Dec-21,Test
+497,35,South Africa,Centurion,26-Dec-21,Test
+498,18,South Africa,Centurion,26-Dec-21,Test
+499,79,South Africa,CapeTown,11-Jan-22,Test
+500,29,South Africa,CapeTown,11-Jan-22,Test
+501,51,South Africa,Paarl,19-Jan-22,ODI
+502,0,South Africa,Paarl,21-Jan-22,ODI
+503,65,South Africa,CapeTown,23-Jan-22,ODI
+504,8,WestIndies,Ahmedabad,06-Feb-22,ODI
+505,18,WestIndies,Ahmedabad,09-Feb-22,ODI
+506,0,WestIndies,Ahmedabad,11-Feb-22,ODI
+507,17,WestIndies,Kolkata,16-Feb-22,T20
+508,52,WestIndies,Kolkata,18-Feb-22,T20
+509,45,SriLanka,Mohali,04-Mar-22,Test
+510,23,SriLanka,Bengaluru,12-Mar-22,Test
+511,13,SriLanka,Bengaluru,12-Mar-22,Test
+512,11,England,Birmingham,01-Jul-22,Test
+513,20,England,Birmingham,01-Jul-22,Test
+514,1,England,Birmingham,09-Jul-22,T20
+515,11,England,Nottingham,10-Jul-22,T20
+516,16,England,Lord's,14-Jul-22,ODI
+517,17,England,Manchester,17-Jul-22,ODI
+518,35,Pakistan,Dubai(DSC),28-Aug-22,T20
+519,59,Hong Kong,Dubai(DSC),31-Aug-22,T20
+520,60,Pakistan,Dubai(DSC),04-Sep-22,T20
+521,0,SriLanka,Dubai (DICS),06-Sep-22,T20
+522,122,Afghanistan,Dubai (DICS),08-Sep-22,T20
+523,2,Australia,Mohali,20-Sep-22,T20
+524,11,Australia,Nagpur,23-Sep-22,T20
+525,63,Sri Lanka,Hyderabad,25-Sep-22,T20
+526,3,Afghanistan,Thiruvananthapuram,28-Sep-22,T20
+527,49,Australia,Guwahati,02-Oct-22,T20
+528,82,Australia,Melbourne,23-Oct-22,T20
+529,62,Australia,Sydney,27-Oct-22,T20
+530,12,South Africa,Perth,30-Oct-22,T20
+531,64,South Africa,Adelaide,02-Nov-22,T20
+532,26,Pakistan,Melbourne,06-Nov-22,T20
+533,50,Netherlands,Adelaide,10-Nov-22,T20
+534,9,South Africa,Mirpur,04-Dec-22,ODI
+535,5,Bangladesh,Mirpur,07-Dec-22,ODI
+536,113,Zimbabwe,Chattogram,10-Dec-22,ODI
+537,1,England,Chattogram,14-Dec-22,Test
+538,19,Bangladesh,Chattogram,14-Dec-22,Test
+539,24,Bangladesh,Mirpur,22-Dec-22,Test
+540,1,Bangladesh,Mirpur,22-Dec-22,Test
+541,113,Bangladesh,Guwahati,10-Jan-23,ODI
+542,4,Bangladesh,Eden Gardens,12-Jan-23,ODI
+543,166,Bangladesh,Thiruvananthapuram,15-Jan-23,ODI
+544,8,Bangladesh,Hyderabad,18-Jan-23,ODI
+545,11,Sri Lanka,Raipur,21-Jan-23,ODI
+546,36,Sri Lanka,Indore,24-Jan-23,ODI
+547,12,Sri Lanka,Nagpur,09-Feb-23,Test
+548,44,New Zealand,Delhi,17-Feb-23,Test
+549,20,New Zealand,Delhi,17-Feb-23,Test
+550,22,New Zealand,Indore,01-Mar-23,Test
+551,13,Australia,Indore,01-Mar-23,Test
+552,186,Australia,Ahmedabad,09-Mar-23,Test
+553,4,Australia,Wankhede,17-Mar-23,ODI
+554,31,Australia,Visakhapatnam,19-Mar-23,ODI
+555,54,Australia,Chennai,22-Mar-23,ODI
+556,14,Australia,The Oval,07-Jun-23,Test
+557,49,Australia,The Oval,07-Jun-23,Test
+558,76,Australia,Roseau,12-Jul-23,Test
+559,121,Australia,Port of Spain,20-Jul-23,Test
+560,4,West Indies,Pallekele,02-Sep-23,ODI
+561,122,West Indies,Colombo (RPS),10-Sep-23,ODI
+562,3,West Indies,Colombo (RPS),12-Sep-23,ODI
+563,56,Nepal,Rajkot,27-Sep-23,ODI
+564,85,Pakistan,Chennai,08-Oct-23,ODI
+565,55,Sri Lanka,Delhi,11-Oct-23,ODI
+566,16,Sri Lanka,Ahmedabad,14-Oct-23,ODI
+567,103,Australia,Pune,19-Oct-23,ODI
+568,95,Australia,Dharamsala,22-Oct-23,ODI
+569,0,Afghanistan,Lucknow,29-Oct-23,ODI
+570,88,Pakistan,Wankhede,02-Nov-23,ODI
+571,101,Bangladesh,Eden Gardens,05-Nov-23,ODI
+572,51,New Zealand,Bengaluru,12-Nov-23,ODI
+573,117,England,Wankhede,15-Nov-23,ODI
+574,54,Sri Lanka,Ahmedabad,19-Nov-23,ODI
+575,38,South Africa,Centurion,26-Dec-23,Test
+576,76,Netherlands,Centurion,26-Dec-23,Test
+577,46,New Zealand,Cape Town,03-Jan-24,Test
+578,12,Australia,Cape Town,03-Jan-24,Test
+579,29,South Africa,Indore,14-Jan-24,T20
+580,0,South Africa,Bengaluru,17-Jan-24,T20
+581,1,South Africa,New York,05-Jun-24,T20
+582,4,South Africa,New York,09-Jun-24,T20
+583,0,Afghanistan,New York,12-Jun-24,T20
+584,24,Afghanistan,Bridgetown,20-Jun-24,T20
+585,37,Ireland,North Sound,22-Jun-24,T20
+586,0,Pakistan,Gros Islet,24-Jun-24,T20
+587,9,U.S.A.,Providence,27-Jun-24,T20
+588,76,Afghanistan,Bridgetown,29-Jun-24,T20
+589,24,Bangladesh,Colombo (RPS),02-Aug-24,ODI
+590,14,Australia,Colombo (RPS),04-Aug-24,ODI
+591,20,England,Colombo (RPS),07-Aug-24,ODI
+592,6,South Africa,Chennai,19-Sep-24,Test
+593,17,Sri Lanka,Chennai,19-Sep-24,Test
+594,47,Sri Lanka,Kanpur,27-Sep-24,Test
+595,29,Sri Lanka,Kanpur,27-Sep-24,Test
+596,0,Bangladesh,Bengaluru,16-Oct-24,Test
+597,70,Bangladesh,Bengaluru,16-Oct-24,Test
+598,1,Bangladesh,Pune,24-Oct-24,Test
+599,17,Bangladesh,Pune,24-Oct-24,Test
+600,4,New Zealand,Wankhede,01-Nov-24,Test
+601,1,New Zealand,Wankhede,01-Nov-24,Test
+602,5,New Zealand,Perth,22-Nov-24,Test
+603,100,New Zealand,Perth,22-Nov-24,Test
+604,7,New Zealand,Adelaide,06-Dec-24,Test
+605,11,New Zealand,Adelaide,06-Dec-24,Test
+606,3,Australia,Brisbane,14-Dec-24,Test
+607,36,Australia,Melbourne,26-Dec-24,Test
+608,5,Australia,Melbourne,26-Dec-24,Test
+609,17,Australia,Sydney,03-Jan-25,Test
+610,6,Australia,Sydney,03-Jan-25,Test
+611,5,England,Cuttack,09-Feb-25,ODI
+612,52,England,Ahmedabad,12-Feb-25,ODI
+613,22,Bangladesh,Dubai (DICS),20-Feb-25,ODI
+614,100,Pakistan,Dubai (DICS),23-Feb-25,ODI
+615,11,New Zealand,Dubai (DICS),02-Mar-25,ODI
+616,84,Australia,Dubai (DICS),04-Mar-25,ODI
+617,1,New Zealand,Dubai (DICS),09-Mar-25,ODI
